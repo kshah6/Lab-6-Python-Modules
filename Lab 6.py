@@ -77,7 +77,7 @@ result = 1
 # using for loop to increment
 for i in range(1, n + 1):
     result *= i
-print("factorial of {} usinf for loop: {}".format(n, result))
+print("factorial of {} using for loop: {}".format(n, result))
 print("factorial of {} using inbuilt function: {}".format(n, math.factorial(n)))
 
 
